@@ -1,0 +1,7 @@
+{
+  "name": "Pragna",
+  "role": "Backend Developer",
+  "age": 22,
+  "location": "India",
+  "skills": ["Node.js", "Express", "MongoDB"]
+}

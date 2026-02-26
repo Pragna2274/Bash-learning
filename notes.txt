@@ -1,0 +1,4 @@
+This is a sample text file created for Bash scripting practice.
+We are learning how to create, copy, move, and rename files.
+File handling is an important part of Linux and backend development.
+Practice daily to improve your command line skills.
